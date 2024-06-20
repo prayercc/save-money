@@ -1,0 +1,48 @@
+{
+    "type": [
+        {
+            "name": "猫的假日",
+            "icon": "book"
+        },
+        {
+            "name": "水果女孩1",
+            "icon": "book1"
+        },
+        {
+            "name": "水果女孩2",
+            "icon": "book2"
+        },
+        {
+            "name": "美妙人生1",
+            "icon": "book3"
+        },
+        {
+            "name": "美妙人生2",
+            "icon": "book4"
+        },
+        {
+            "name": "美妙人生3",
+            "icon": "book9"
+        },
+        {
+            "name": "美妙人生4",
+            "icon": "book10"
+        },
+        {
+            "name": "开心熊猫",
+            "icon": "book5"
+        },
+        {
+            "name": "逢考必过",
+            "icon": "book6"
+        },
+        {
+            "name": "菠萝1夏1",
+            "icon": "book7"
+        },
+        {
+            "name": "菠萝1夏2",
+            "icon": "book8"
+        }
+    ]
+}

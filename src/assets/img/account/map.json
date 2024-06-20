@@ -1,0 +1,108 @@
+{
+    "type": [
+        {
+            "icon": "card2",
+            "name": "借记卡",
+            "type": "property"
+        },
+        {
+            "icon": "card",
+            "name": "信用卡",
+            "type": "liabilities"
+        },
+        {
+            "icon": "alipay",
+            "name": "支付宝",
+            "type": "property"
+        },
+        {
+            "icon": "wechat",
+            "name": "微信钱包",
+            "type": "property"
+        },
+        {
+            "icon": "cash",
+            "name": "现金钱包",
+            "type": "property"
+        },
+        {
+            "icon": "hb",
+            "name": "花呗",
+            "type": "liabilities"
+        },
+        {
+            "icon": "jdbt",
+            "name": "白条",
+            "type": "liabilities"
+        },
+        {
+            "icon": "jdjr",
+            "name": "京东金融",
+            "type": "property"
+        },      
+        {
+            "icon": "yb",
+            "name": "医保账户",
+            "type": "property"
+        },
+        {
+            "icon": "gjj",
+            "name": "公积金账户",
+            "type": "property"
+        },
+        {
+            "icon": "gp",
+            "name": "股票",
+            "type": "property"
+        },
+        {
+            "icon": "jj",
+            "name": "基金",
+            "type": "property"
+        },
+        {
+            "icon": "jc",
+            "name": "借出",
+            "type": "property"
+        },
+        {
+            "icon": "jr",
+            "name": "借入",
+            "type": "liabilities"
+        }        
+    ],
+    "bank": [
+        {
+            "icon": "zsyh",
+            "name": "招商银行"
+        },
+        {
+            "icon": "nyyh",
+            "name": "农业银行"
+        },
+        {
+            "icon": "yzyh",
+            "name": "邮政银行"
+        },
+        {
+            "icon": "ncxys",
+            "name": "农村信用社"
+        },
+        {
+            "icon": "gsyh",
+            "name": "工商银行"
+        },
+        {
+            "icon": "jtyh",
+            "name": "交通银行"
+        },
+        {
+            "icon": "jsyh",
+            "name": "建设银行"
+        },
+        {
+            "icon": "zgyh",
+            "name": "中国银行"
+        }
+    ]
+}

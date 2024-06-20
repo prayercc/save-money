@@ -1,0 +1,369 @@
+{
+    "expenditure": [
+        {
+            "label": "餐饮",
+            "value": "food",
+            "children": [
+                {
+                    "label": "早饭",
+                    "value": "breakfast"
+                },
+                {
+
+                    "label": "午饭",
+                    "value": "lunch"
+                },
+                {
+
+                    "label": "晚餐",
+                    "value": "dinner"
+                },
+                {
+
+                    "label": "外卖",
+                    "value": "takeaway"
+                },
+                {
+
+                    "label": "蔬菜",
+                    "value": "vegetable"
+                },
+                {
+
+                    "label": "肉类",
+                    "value": "meat"
+                },
+                {
+
+                    "label": "水果",
+                    "value": "fruit"
+                },
+                {
+
+                    "label": "酱料",
+                    "value": "seasoning"
+                },
+                {
+
+                    "label": "粮油",
+                    "value": "oil"
+                },
+                {
+
+                    "label": "牛奶",
+                    "value": "milk"
+                },
+                {
+
+                    "label": "奶茶",
+                    "value": "tmilk"
+                },
+                {
+
+                    "label": "蛋糕",
+                    "value": "cake"
+                },
+                {
+
+                    "label": "雪糕",
+                    "value": "icecream"
+                },
+                {
+
+                    "label": "零食",
+                    "value": "snack"
+                },
+                {
+
+                    "label": "方便食品",
+                    "value": "noodles"
+                }
+            ]
+        },
+        {
+            "label": "通讯",
+            "value": "communicate",
+            "children": [
+                {
+                    "label": "宽带",
+                    "value": "broadband"
+                },
+                {
+                    "label": "充值",
+                    "value": "recharge"
+                },
+                {
+                    "label": "话费",
+                    "value": "phonebill"
+                }
+            ]
+        },
+        {
+            "label": "娱乐",
+            "value": "entertainment",
+            "children": [
+                {
+                    "label": "游泳",
+                    "value": "swim"
+                },
+                {
+                    "label": "KTV",
+                    "value": "ktv"
+                },
+                {
+                    "label": "按摩",
+                    "value": "knead"
+                },
+                {
+                    "label": "电影",
+                    "value": "movie"
+                },
+                {
+                    "label": "酒吧",
+                    "value": "bar"
+                },
+                {
+                    "label": "麻将",
+                    "value": "mahjong"
+                },
+                {
+                    "label": "游戏",
+                    "value": "game"
+                },
+                {
+                    "label": "约会",
+                    "value": "date"
+                },
+                {
+                    "label": "娱乐场所",
+                    "value": "park"
+                }
+            ] 
+        },
+        {
+            "label": "宠物",
+            "value": "pet",
+            "children": [
+                {
+                    "label": "服饰",
+                    "value": "clothing"
+                },
+                {
+                    "label": "药品",
+                    "value": "drug"
+                },
+                {
+                    "label": "食物",
+                    "value": "food"
+                },
+                {
+                    "label": "玩具",
+                    "value": "toy"
+                },
+                {
+                    "label": "宠物物品",
+                    "value": "articles"
+                }
+                
+            ]
+        },
+        {
+            "label": "人情",
+            "value": "favor",
+            "children": [
+                {
+                    "label": "红包",
+                    "value": "redEnvelope"
+                },
+                {
+                    "label": "礼物",
+                    "value": "gift"
+                },
+                {
+                    "label": "亲密付",
+                    "value": "intimatePayment"
+                },
+                {
+                    "label": "请客",
+                    "value": "treat"
+                },
+                {
+                    "label": "孝心",
+                    "value": "filialPiety"
+                }
+                
+            ]
+        },
+        {
+            "label": "居家",
+            "value": "stay",
+            "children": [
+                {
+                    "label": "房租",
+                    "value": "rent"
+                },
+                {
+                    "label": "电费",
+                    "value": "electricCharge"
+                },
+                {
+                    "label": "燃气",
+                    "value": "gas"
+                },
+                {
+                    "label": "水费",
+                    "value": "water"
+                },
+                {
+                    "label": "维修",
+                    "value": "setting"
+                }
+                
+            ]
+        },
+        {
+            "label": "交通",
+            "value": "traffic",
+            "children": [
+                {
+                    "label": "飞机",
+                    "value": "aircraft"
+                },
+                {
+                    "label": "公交车",
+                    "value": "bus"
+                },
+                {
+                    "label": "打车",
+                    "value": "didi"
+                },
+                {
+                    "label": "共享车",
+                    "value": "share"
+                },
+                {
+                    "label": "出租车",
+                    "value": "taxi"
+                },
+                {
+                    "label": "火车",
+                    "value": "train"
+                }
+                
+            ]
+        },
+        {
+            "label": "购物",
+            "value": "shop",
+            "children":[
+                {
+                    "label": "超市",
+                    "value": "shop"
+                },  
+                {
+                    "label": "衣物",
+                    "value": "clothing"
+                },
+                {
+                    "label": "鞋子",
+                    "value": "shoe"
+                },
+                {
+                    "label": "姨妈巾",
+                    "value": "tampon"
+                },
+                {
+                    "label": "洗护用品",
+                    "value": "shampoo"
+                },
+                {
+                    "label": "鲜花",
+                    "value": "flower"
+                },
+                {
+                    "label": "纸巾",
+                    "value": "tissue"
+                }
+                
+            ]
+        }
+    ],
+    "income": [
+        {
+            "label": "常规",
+            "value": "income",
+            "children": [
+                {
+                    "label": "职业收入",
+                    "value": "salary"
+                },
+                {
+                    "label": "投资回报",
+                    "value": "invest"
+                },
+                {
+                    "label": "其他收益",
+                    "value": "other"
+                }
+            ]
+        }
+    ],
+    "transfer": [
+        {
+            "label": "内部",
+            "value": "inner",
+            "children": [
+                {
+                    "label": "还款",
+                    "value": "repayment"
+                },
+                {
+                    "label": "内部转账",
+                    "value": "innerTransfer"
+                },
+                {
+                    "label": "取现",
+                    "value": "enchashment"
+                }
+            ]
+        }
+    ],
+    "circulate":[
+        {
+            "label": "借入",
+            "value": "borrow",
+            "children": [
+                {
+                    "label": "借入",
+                    "value": "borrow"
+                },
+                {
+                    "label": "还债",
+                    "value": "repayment"
+                },
+                {
+                    "label": "债务削减",
+                    "value": "debtReduction"
+                }
+            ]
+        },
+        {
+            "label": "借出",
+            "value": "lend",
+            "children": [
+                {
+                    "label": "借出",
+                    "value": "lend"
+                },
+                {
+                    "label": "收债",
+                    "value": "debtCollection"
+                },
+                {
+                    "label": "坏账损失",
+                    "value": "badDebts"
+                }
+            ]
+        }
+    ]
+}
